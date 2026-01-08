@@ -1,0 +1,43 @@
+﻿# Web Framework
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Security & Authentication
+passlib[bcrypt]
+python-jose[cryptography]
+
+# Data Validation
+pydantic
+pydantic[email]
+
+# AI & Vector Search
+openai
+llama-index
+qdrant-client
+
+# HTTP Client
+httpx
+
+# File Upload
+python-multipart
+
+# Environment Configuration
+python-dotenv
+
+# Document Processing
+pypdf2
+python-docx
+pandas
+openpyxl
+pytesseract
+Pillow
+
+# YouTube
+youtube-transcript-api
+
+# Web Search
+duckduckgo-search
